@@ -1,0 +1,39 @@
+- term: Congruent Segments
+  full_def: If two segments are congruent, then they have the same length.
+  quiz_question: What do you call two segments that have the same length?
+
+- term: Congruent Angles
+  full_def: If two angles are congruent, then they have the same degree measure.
+  quiz_question: What do you call two angles that have the same degree measure?
+
+- term: Angle Bisector
+  full_def: If a ray bisects an angle, then it divides the angle into two congruent angles.
+  quiz_question: What is a ray that divides an angle into two congruent angles called?
+
+- term: Complementary Angles
+  full_def: If two angles are complementary angles, then the sum of their measures is 90°.
+  quiz_question: What do you call two angles if the sum of their measures is 90°?
+
+- term: Supplementary Angles
+  full_def: If two angles are supplementary angles, then the sum of their measures is 180°.
+  quiz_question: What do you call two angles if the sum of their measures is 180°?
+
+- term: Perpendicular Lines
+  full_def: If two lines, segments, or rays are perpendicular, then they intersect to create 4 right angles.
+  quiz_question: What do you call lines that intersect to create 4 right angles?
+
+- term: Right Angles
+  full_def: If an angle is a right angle, then it has a measure of 90°.
+  quiz_question: What is an angle that has a measure of 90° called?
+
+- term: Midpoint
+  full_def: If a point is a midpoint, then it is between the endpoints and equidistant from the endpoints of a segment.
+  quiz_question: What is the point on a segment that is equidistant from both endpoints?
+
+- term: Segment Bisector
+  full_def: If a point, line, or ray bisects a segment, then it divides the segment into two congruent segments.
+  quiz_question: What do you call a point, line, or ray that divides a segment into two congruent segments?
+
+- term: Betweenness of Points
+  full_def: Point M is between points P and Q if and only if P, Q, M are collinear and PM + MQ = PQ.
+  quiz_question: What property states that point M is between P and Q if P, Q, M are collinear and PM + MQ = PQ?
