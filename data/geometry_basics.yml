@@ -1,0 +1,160 @@
+- term: Point
+  full_def: A basic undefined object representing a location in space.
+  quiz_question: 'Which term fits: a basic undefined object representing a location
+    in space?'
+- term: Line
+  full_def: 'An undefined object: a straight path that extends infinitely in both
+    directions.'
+  quiz_question: 'Which term fits: a straight path that extends infinitely in both
+    directions?'
+- term: Plane
+  full_def: 'An undefined object: a flat surface extending infinitely in all directions.'
+  quiz_question: 'Which term fits: a flat surface extending infinitely in all directions?'
+- term: Space
+  full_def: The setting in which all geometric objects exist; treated as an undefined
+    object.
+  quiz_question: 'Which term fits: the setting in which all geometric objects exist
+    (treated as undefined)?'
+- term: Finite plane
+  full_def: A bounded portion of a plane, for example the region enclosed by a polygon
+    or a circle.
+  quiz_question: 'Which term fits: a bounded portion of a plane (e.g., a region enclosed
+    by a polygon or a circle)?'
+- term: Collinear points
+  full_def: Points that lie on the same line.
+  quiz_question: 'Which term fits: points that lie on the same line?'
+- term: Coplanar points (or lines)
+  full_def: Points (or lines) that lie in the same plane.
+  quiz_question: 'Which term fits: points or lines that lie in the same plane?'
+- term: Segment
+  full_def: A bounded portion of a line determined by two distinct endpoints.
+  quiz_question: 'Which term fits: a bounded portion of a line determined by two distinct
+    endpoints?'
+- term: Midpoint
+  full_def: The point on a segment that is equidistant from the segment's endpoints.
+  quiz_question: 'Which term fits: the point on a segment that is equidistant from
+    the segment''s endpoints?'
+- term: Segment bisector
+  full_def: A line, ray, or segment that passes through the midpoint of a segment,
+    dividing it into two equal parts.
+  quiz_question: 'Which term fits: a line, ray, or segment that passes through a segment''s
+    midpoint, dividing it into two equal parts?'
+- term: Angle bisector
+  full_def: A ray with origin at the vertex of an angle that divides the angle into two congruent angles.
+  quiz_question: 'Which term fits: a ray with origin at the vertex of an angle that divides the angle into two congruent angles?'
+- term: Ray
+  full_def: A part of a line that starts at a point (its origin) and extends infinitely
+    in one direction.
+  quiz_question: 'Which term fits: a part of a line that starts at a point and extends
+    infinitely in one direction?'
+- term: Origin of a ray
+  full_def: The common endpoint from which a ray begins.
+  quiz_question: 'Which term fits: the common endpoint from which a ray begins?'
+- term: Opposite rays
+  full_def: Two rays with the same origin that lie on the same line but extend in
+    opposite directions.
+  quiz_question: 'Which term fits: two rays with the same origin on the same line
+    that extend in opposite directions?'
+- term: Betweenness of points
+  full_def: A point B is between A and C if A, B, and C are distinct, collinear, and
+    AB + BC = AC.
+  quiz_question: 'Which term fits: B is between A and C if A, B, C are distinct and
+    collinear, and AB + BC = AC?'
+- term: Angle
+  full_def: A figure formed by two rays with a common origin called the vertex; the
+    rays are the sides.
+  quiz_question: 'Which term fits: a figure formed by two rays with a common origin
+    (the vertex)?'
+- term: Interior and exterior of an angle
+  full_def: 'The sides of an angle divide the plane into two regions: the interior
+    (between the sides) and the exterior.'
+  quiz_question: "Which term fits: the two regions formed by an angle's sides\u2014\
+    the interior (between the sides) and the exterior?"
+- term: Degree measure of an angle
+  full_def: A measure of angle size based on dividing a full rotation into 360 equal
+    parts.
+  quiz_question: 'Which term fits: a measure of angle size based on dividing a full
+    rotation into 360 equal parts?'
+- term: Acute angle
+  full_def: An angle whose measure is less than 90 degrees.
+  quiz_question: 'Which term fits: an angle with measure less than 90 degrees?'
+- term: Right angle
+  full_def: An angle whose measure is exactly 90 degrees.
+  quiz_question: 'Which term fits: an angle with measure exactly 90 degrees?'
+- term: Obtuse angle
+  full_def: An angle whose measure is greater than 90 degrees but less than 180 degrees.
+  quiz_question: 'Which term fits: an angle with measure greater than 90 degrees but
+    less than 180 degrees?'
+- term: Straight angle
+  full_def: An angle whose measure is exactly 180 degrees.
+  quiz_question: 'Which term fits: an angle with measure exactly 180 degrees?'
+# added by assistant
+- term: Reflex angle
+  full_def: An angle whose measure is greater than 180 degrees and less than 360 degrees.
+  quiz_question: 'Which term fits: an angle with measure greater than 180 degrees
+    and less than 360 degrees?'
+# added by assistant
+- term: Full angle (complete angle)
+  full_def: An angle whose measure is 360 degrees; one full rotation.
+  quiz_question: 'Which term fits: an angle measuring 360 degrees (one full rotation)?'
+# added by assistant
+- term: Perpendicular lines
+  full_def: Two lines that intersect to form a right angle.
+  quiz_question: 'Which term fits: two lines that intersect to form a right angle?'
+- term: Congruent angles
+  full_def: Angles that have equal measure.
+  quiz_question: 'Which term fits: angles that have equal measure?'
+- term: Complementary angles
+  full_def: Two angles whose measures sum to 90 degrees.
+  quiz_question: 'Which term fits: two angles whose measures sum to 90 degrees?'
+- term: Supplementary angles
+  full_def: Two angles whose measures sum to 180 degrees.
+  quiz_question: 'Which term fits: two angles whose measures sum to 180 degrees?'
+- term: Vertical angles
+  full_def: A pair of non-adjacent angles formed by two intersecting lines; vertical
+    angles are congruent.
+  quiz_question: 'Which term fits: a pair of non-adjacent angles formed by two intersecting
+    lines that are congruent?'
+# added by assistant
+- term: Intersection
+  full_def: The set of points common to two or more geometric objects.
+  quiz_question: 'Which term fits: the set of points common to two or more geometric
+    objects?'
+- term: Concurrent lines
+  full_def: Three or more lines that meet at a single point.
+  quiz_question: 'Which term fits: three or more lines that meet at a single point?'
+- term: Equidistant
+  full_def: Two points are equidistant from a third point if their distances to that
+    point are equal.
+  quiz_question: 'Which term fits: having equal distance from a reference point or
+    object?'
+- term: Locus
+  full_def: The set of all points that satisfy a specified condition.
+  quiz_question: 'Which term fits: the set of all points that satisfy a given condition?'
+- term: Congruent figures
+  full_def: Figures that can be mapped onto each other by a rigid transformation.
+  quiz_question: 'Which term fits: figures that can be mapped onto each other by a
+    rigid transformation?'
+- term: Rigid transformation
+  full_def: A transformation of the plane that preserves distances and angle measures
+    (translations, rotations, reflections, and their compositions).
+  quiz_question: 'Which term fits: a transformation that preserves distances and angle
+    measures (e.g., translations, rotations, reflections)?'
+- term: Construction
+  full_def: The drawing of geometric figures using only specified tools (typically
+    straightedge and compass) according to given conditions.
+  quiz_question: 'Which term fits: drawing geometric figures using only specified
+    tools such as straightedge and compass under given conditions?'
+- term: Axiom (postulate)
+  full_def: A statement accepted without proof.
+  quiz_question: 'Which term fits: a statement accepted without proof?'
+- term: Theorem
+  full_def: A statement that requires proof, supported by axioms and previously established
+    theorems.
+  quiz_question: 'Which term fits: a statement that requires proof using axioms and
+    previously established results?'
+- term: Conjecture
+  full_def: A statement whose truth or falsity is not yet known; if proved, it becomes
+    a theorem.
+  quiz_question: 'Which term fits: a statement not yet proven true or false that becomes
+    a theorem if proved?'
