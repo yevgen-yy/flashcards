@@ -1,4 +1,4 @@
-title: Geometry Basics
+title: Geometry School Basics
 cards:
 - term: Point
   full_def: A basic undefined object representing a location in space.
@@ -87,16 +87,13 @@ cards:
 - term: Straight angle
   full_def: An angle whose measure is exactly 180 degrees.
   quiz_question: 'Which term fits: an angle with measure exactly 180 degrees?'
-# added by assistant
 - term: Reflex angle
   full_def: An angle whose measure is greater than 180 degrees and less than 360 degrees.
   quiz_question: 'Which term fits: an angle with measure greater than 180 degrees
     and less than 360 degrees?'
-# added by assistant
 - term: Full angle (complete angle)
   full_def: An angle whose measure is 360 degrees; one full rotation.
   quiz_question: 'Which term fits: an angle measuring 360 degrees (one full rotation)?'
-# added by assistant
 - term: Perpendicular lines
   full_def: Two lines that intersect to form a right angle.
   quiz_question: 'Which term fits: two lines that intersect to form a right angle?'
@@ -114,7 +111,6 @@ cards:
     angles are congruent.
   quiz_question: 'Which term fits: a pair of non-adjacent angles formed by two intersecting
     lines that are congruent?'
-# added by assistant
 - term: Intersection
   full_def: The set of points common to two or more geometric objects.
   quiz_question: 'Which term fits: the set of points common to two or more geometric

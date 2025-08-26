@@ -1,106 +1,107 @@
+title: ELA (English Language Arts)
+cards:
 - term: Plot
   full_def: The sequence of events that make up a story.
   quiz_question: What is the term for the sequence of events in a story?
-
 - term: Exposition
-  full_def: The beginning of a story where the characters, setting, and basic situation are introduced.
-  quiz_question: What is the beginning of a story that introduces characters and setting called?
-
+  full_def: The beginning of a story where the characters, setting, and basic situation
+    are introduced.
+  quiz_question: What is the beginning of a story that introduces characters and setting
+    called?
 - term: Rising Action
   full_def: The series of events that build suspense and lead to the story's climax.
   quiz_question: What part of the plot builds suspense leading up to the climax?
-
 - term: Climax
-  full_def: The most intense and exciting part of the story; the turning point for the main character.
+  full_def: The most intense and exciting part of the story; the turning point for
+    the main character.
   quiz_question: What is the turning point or most intense part of a story called?
-
 - term: Falling Action
-  full_def: The events that occur after the climax, where the tension decreases and the story moves toward its end.
+  full_def: The events that occur after the climax, where the tension decreases and
+    the story moves toward its end.
   quiz_question: What are the events after the climax that lead toward the resolution?
-
 - term: Resolution
   full_def: The conclusion of the story, where the main conflict is resolved.
-  quiz_question: What is the term for the conclusion of a story where the conflict is resolved?
-
+  quiz_question: What is the term for the conclusion of a story where the conflict
+    is resolved?
 - term: External Conflict
-  full_def: A struggle between a character and an outside force, such as another person, society, or nature.
-  quiz_question: What type of conflict involves a character struggling against an outside force?
-
+  full_def: A struggle between a character and an outside force, such as another person,
+    society, or nature.
+  quiz_question: What type of conflict involves a character struggling against an
+    outside force?
 - term: Internal Conflict
-  full_def: A struggle that takes place within a character's own mind or conscience (man vs. self).
+  full_def: A struggle that takes place within a character's own mind or conscience
+    (man vs. self).
   quiz_question: What type of conflict takes place inside a character's mind?
-
 - term: Foreshadowing
-  full_def: Hints or clues an author gives to suggest what will happen later in the story.
-  quiz_question: What are an author's hints about what will happen later in a story called?
-
+  full_def: Hints or clues an author gives to suggest what will happen later in the
+    story.
+  quiz_question: What are an author's hints about what will happen later in a story
+    called?
 - term: Flashback
-  full_def: A scene that interrupts the present action to show an event that happened at an earlier time.
+  full_def: A scene that interrupts the present action to show an event that happened
+    at an earlier time.
   quiz_question: What is a scene that interrupts the story to show a past event called?
-
 - term: Chronological Order
   full_def: The arrangement of events in the order that they happened in time.
-  quiz_question: What is the term for arranging events in the order they occurred in time?
-
+  quiz_question: What is the term for arranging events in the order they occurred
+    in time?
 - term: Direct Characterization
-  full_def: When the author directly tells the reader about a character's personality or traits.
-  quiz_question: When an author explicitly describes a character's traits, what is it called?
-
+  full_def: When the author directly tells the reader about a character's personality
+    or traits.
+  quiz_question: When an author explicitly describes a character's traits, what is
+    it called?
 - term: Indirect Characterization
-  full_def: When the author reveals a character's personality through their speech, thoughts, actions, and appearance.
-  quiz_question: What is it called when an author shows a character's traits through their actions and speech?
-
+  full_def: When the author reveals a character's personality through their speech,
+    thoughts, actions, and appearance.
+  quiz_question: What is it called when an author shows a character's traits through
+    their actions and speech?
 - term: Protagonist
   full_def: The main character in a story, who the reader typically roots for.
   quiz_question: What is the main character in a story called?
-
 - term: Antagonist
   full_def: The character or force that opposes the protagonist.
   quiz_question: What do you call the character or force that opposes the main character?
-
 - term: Dynamic Character
-  full_def: A character who undergoes a significant internal change over the course of the story.
+  full_def: A character who undergoes a significant internal change over the course
+    of the story.
   quiz_question: What type of character undergoes a significant internal change?
-
 - term: Static Character
   full_def: A character who remains largely the same throughout the story.
   quiz_question: What type of character does not change throughout the story?
-
 - term: Round Character
   full_def: A complex, well-developed character with multiple traits and motivations.
   quiz_question: What is a complex, well-developed character called?
-
 - term: Flat Character
-  full_def: A simple, one-dimensional character who is not well-developed and has few defining traits.
+  full_def: A simple, one-dimensional character who is not well-developed and has
+    few defining traits.
   quiz_question: What is a simple, one-dimensional character called?
-
 - term: Point of View (POV)
   full_def: The perspective from which a story is told.
   quiz_question: What is the term for the perspective from which a story is told?
-
 - term: First-Person POV
-  full_def: The narrator is a character within the story, using pronouns like "I," "me," and "my."
-  quiz_question: Which POV uses the pronouns 'I' and 'me' because the narrator is in the story?
-
+  full_def: The narrator is a character within the story, using pronouns like "I,"
+    "me," and "my."
+  quiz_question: Which POV uses the pronouns 'I' and 'me' because the narrator is
+    in the story?
 - term: Second-Person POV
   full_def: The narrator speaks directly to the reader, using the pronoun "you."
   quiz_question: Which rare point of view addresses the reader directly using "you"?
-
 - term: Third-Person Limited POV
-  full_def: The narrator is outside the story and focuses on the thoughts and feelings of only one character.
+  full_def: The narrator is outside the story and focuses on the thoughts and feelings
+    of only one character.
   quiz_question: Which POV reveals the thoughts and feelings of only one character?
-
 - term: Third-Person Omniscient POV
-  full_def: The narrator is outside the story and is "all-knowing," able to reveal the thoughts and feelings of any character.
-  quiz_question: Which 'all-knowing' POV reveals the thoughts and feelings of any character?
-
+  full_def: The narrator is outside the story and is "all-knowing," able to reveal
+    the thoughts and feelings of any character.
+  quiz_question: Which 'all-knowing' POV reveals the thoughts and feelings of any
+    character?
 - term: Third-Person Objective POV
-  full_def: The narrator is outside the story and only reports what can be seen and heard, without access to any character's thoughts.
-  quiz_question: Which POV reports events like a camera, without knowing any character's thoughts?
-
+  full_def: The narrator is outside the story and only reports what can be seen and
+    heard, without access to any character's thoughts.
+  quiz_question: Which POV reports events like a camera, without knowing any character's
+    thoughts?
 - term: Unreliable Narrator
   full_def: A narrator whose account of events cannot be fully trusted by the reader.
   quiz_question: What do you call a narrator whose credibility is compromised?
-
 - term: Tone
   full_def: The author's attitude toward the subject
