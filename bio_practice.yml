@@ -1,0 +1,220 @@
+title: Biology Unit 1 Practice
+questions:
+  - id: characteristics_of_life_6
+    prompt: List the six characteristics of life.
+    type: list
+    parts: 6
+    answers:
+      - Cells
+      - 'Genetic material (DNA)'
+      - Growth and reproduction
+      - Response to stimuli
+      - Adaptation/Evolution
+      - Metabolism
+    tags: ['intro_to_bio']
+
+  - id: sexual_vs_asexual_2
+    prompt: 'Name and define two modes of reproduction: sexual and asexual.'
+    type: list
+    parts: 2
+    answers:
+      - 'Sexual reproduction: two parents; offspring have genetic variation'
+      - 'Asexual reproduction: one parent; offspring genetically identical'
+    tags: ['intro_to_bio', 'reproduction']
+
+  - id: unicellular_vs_multicellular_2
+    prompt: 'Give one example each: a unicellular organism and a multicellular organism.'
+    type: list
+    parts: 2
+    answers:
+      - 'Unicellular: bacteria, amoeba, yeast (single cell form)'
+      - 'Multicellular: human, sea otter, sunflower'
+    tags: ['intro_to_bio']
+
+  - id: stimulus_response_short
+    prompt: "Define 'stimulus' and 'response' in biology."
+    type: short
+    answers:
+      - "Stimulus: a change in an organism's environment that causes a reaction; Response: how the organism reacts to the change"
+    tags: ['intro_to_bio']
+
+  - id: levels_small_to_large_sequence
+    prompt: 'Order these ecological levels from smallest to largest: organism, population, community, ecosystem, biome, biosphere.'
+    type: sequence
+    answers:
+      - Organism
+      - Population
+      - Community
+      - Ecosystem
+      - Biome
+      - Biosphere
+    tags: ['ecology', 'levels']
+
+  - id: define_population_short
+    prompt: "Define 'population' in ecology."
+    type: short
+    answers:
+      - 'A group of individuals of the same species living in the same area that interbreed'
+    tags: ['ecology', 'levels']
+
+  - id: define_community_short
+    prompt: "Define 'community' in ecology."
+    type: short
+    answers:
+      - 'All interacting populations of different species living in the same area'
+    tags: ['ecology', 'levels']
+
+  - id: define_ecosystem_short
+    prompt: "Define 'ecosystem' in ecology."
+    type: short
+    answers:
+      - 'A community of organisms plus the abiotic environment'
+    tags: ['ecology', 'levels']
+
+  - id: define_biome_short
+    prompt: "Define 'biome' and give one example."
+    type: short
+    answers:
+      - 'A large ecological region defined by climate, plants, and animals; e.g., desert, tundra, rainforest'
+    tags: ['ecology', 'levels']
+
+  - id: biosphere_definition_short
+    prompt: "Define 'biosphere'."
+    type: short
+    answers:
+      - 'All regions of Earth where life exists (from deep oceans to mountaintops)'
+    tags: ['ecology', 'levels']
+
+  - id: abiotic_biotic_examples_4
+    prompt: 'Give two abiotic and two biotic factors in an ecosystem.'
+    type: list
+    parts: 4
+    answers:
+      - 'Abiotic: sunlight, temperature, water, soil, pH'
+      - 'Biotic: plants, animals, fungi, microorganisms'
+    tags: ['ecology', 'factors']
+
+  - id: water_cycle_6
+    prompt: List the six stages of the water cycle.
+    type: list
+    parts: 6
+    answers:
+      - Condensation
+      - Transpiration
+      - Precipitation
+      - Runoff
+      - Infiltration
+      - Evaporation
+    tags: ['cycles', 'water']
+
+  - id: human_impacts_water_3
+    prompt: Name three human activities that can negatively impact the water cycle.
+    type: list
+    parts: 3
+    answers:
+      - 'Deforestation (reduces transpiration and alters runoff)'
+      - 'Pollution/contamination of water bodies'
+      - 'Overuse/extraction of groundwater; urbanization increasing runoff'
+    tags: ['cycles', 'water', 'human_impact']
+
+  - id: carbon_cycle_5
+    prompt: List five key processes in the carbon cycle.
+    type: list
+    parts: 5
+    answers:
+      - Photosynthesis
+      - Cellular respiration
+      - Decomposition
+      - Fossilization
+      - Combustion
+    tags: ['cycles', 'carbon']
+
+  - id: photosynthesis_vs_respiration_short
+    prompt: 'Explain how photosynthesis and cellular respiration are related in the carbon cycle.'
+    type: short
+    answers:
+      - 'Photosynthesis removes CO₂ to make glucose and O₂; respiration uses O₂ to break down glucose, releasing CO₂ and water'
+    tags: ['cycles', 'carbon']
+
+  - id: nitrogen_stages_4
+    prompt: Name four stages of the nitrogen cycle.
+    type: list
+    parts: 4
+    answers:
+      - Nitrogen fixation
+      - Nitrification
+      - Assimilation
+      - Denitrification
+    tags: ['cycles', 'nitrogen']
+
+  - id: nitrogen_fixation_sources_3
+    prompt: List three ways nitrogen can be fixed from the atmosphere.
+    type: list
+    parts: 3
+    answers:
+      - 'Bacterial fixation (e.g., Rhizobium)'
+      - Lightning fixation
+      - 'Industrial fixation (Haber-Bosch)'
+    tags: ['cycles', 'nitrogen']
+
+  - id: plants_role_cycles_2
+    prompt: 'Give two roles of plants in biogeochemical cycles.'
+    type: list
+    parts: 2
+    answers:
+      - 'Photosynthesis (carbon uptake, oxygen release)'
+      - 'Nutrient assimilation from soil (nitrogen, phosphorus)'
+    tags: ['cycles', 'organisms']
+
+  - id: animals_role_cycles_2
+    prompt: 'Give two roles of animals in biogeochemical cycles.'
+    type: list
+    parts: 2
+    answers:
+      - 'Cellular respiration (CO₂ release)'
+      - 'Nutrient cycling via waste and decomposition after death'
+    tags: ['cycles', 'organisms']
+
+  - id: decomposers_role_cycles_2
+    prompt: 'Give two roles of decomposers in biogeochemical cycles.'
+    type: list
+    parts: 2
+    answers:
+      - 'Break down dead organic matter'
+      - 'Recycle nutrients back into soil and water'
+    tags: ['cycles', 'organisms']
+
+  - id: bacteria_role_cycles_3
+    prompt: 'Give three roles of bacteria in biogeochemical cycles.'
+    type: list
+    parts: 3
+    answers:
+      - 'Nitrogen fixation'
+      - 'Nitrification'
+      - 'Denitrification (and decomposition)'
+    tags: ['cycles', 'organisms']
+
+  - id: four_types_of_organisms_4
+    prompt: 'Name four types of organisms commonly involved in biogeochemical cycles.'
+    type: list
+    parts: 4
+    answers:
+      - Plants
+      - Animals
+      - Decomposers
+      - Bacteria (microorganisms)
+    tags: ['cycles', 'organisms']
+
+  - id: define_ecology_short
+    prompt: "Define 'ecology'."
+    type: short
+    answers:
+      - 'The study of how organisms interact with each other and with their environment'
+    tags: ['ecology']
+
+  - id: metabolism_definition_short
+    prompt: "Define 'metabolism'."
+    type: short
+    answers:
+      - 'The chemical processes by which organisms use energy, break down food, and produce waste'
+    tags: ['intro_to_bio']
