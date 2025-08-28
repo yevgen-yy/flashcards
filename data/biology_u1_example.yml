@@ -1,0 +1,57 @@
+title: Biology Unit 1 Basics (Examples as Questions)
+cards:
+- term: Ecology
+  full_def: 'Ecology is the study of how living organisms interact with each other and their environment.'
+  quiz_question: 'Studying how wolves, elk, and plants interact in Yellowstone National Park is an example of what?'
+
+- term: Combustion
+  full_def: 'Combustion is the burning of fossil fuels or organic material that releases carbon dioxide into the atmosphere.'
+  quiz_question: 'Burning gasoline in a car engine is an example of what process?'
+
+- term: Condensation
+  full_def: 'Condensation is the process of water vapor cooling and changing into liquid droplets in the atmosphere.'
+  quiz_question: 'Water droplets forming on the outside of a cold glass is an example of what process?'
+
+- term: Evaporation
+  full_def: 'Evaporation is the process of liquid water gaining energy from the sun and changing into water vapor.'
+  quiz_question: 'Puddles disappearing after a hot sunny day is an example of what process?'
+
+- term: Transpiration
+  full_def: 'Transpiration is the release of water vapor from plant leaves into the atmosphere.'
+  quiz_question: 'Water vapor released when a tree breathes through its leaves is an example of what?'
+
+- term: Decomposition
+  full_def: 'Decomposition is the breakdown of dead organisms by decomposers, releasing nutrients back into the soil and atmosphere.'
+  quiz_question: 'Fungi breaking down a fallen log is an example of what process?'
+
+- term: Denitrification
+  full_def: 'Denitrification is the process where bacteria convert nitrates in the soil back into nitrogen gas, returning it to the atmosphere.'
+  quiz_question: 'Soil bacteria in wetlands releasing nitrogen gas into the air is an example of what process?'
+
+- term: Biome
+  full_def: 'A biome is a large ecological region defined by climate, plants, and animals.'
+  quiz_question: 'The Sahara Desert, with cactus and camels, is an example of what?'
+
+- term: Community
+  full_def: 'A community is all interacting populations of different species living in the same area.'
+  quiz_question: 'All the fish, corals, and algae in a coral reef are an example of what?'
+
+- term: Ecosystem
+  full_def: 'An ecosystem is a community of living organisms plus the abiotic environment.'
+  quiz_question: 'A pond with frogs, fish, water, sunlight, and nutrients is an example of what?'
+
+- term: Organism
+  full_def: 'An organism is a single living thing that meets all characteristics of life.'
+  quiz_question: 'One sea otter, a bacterium, or a sunflower is an example of what?'
+
+- term: Population
+  full_def: 'A population is a group of individuals of the same species living in the same area.'
+  quiz_question: 'A herd of deer in a forest is an example of what?'
+
+- term: Nitrification
+  full_def: 'Nitrification is the process where soil bacteria convert ammonia into nitrates and nitrites that plants can use.'
+  quiz_question: 'Soil microbes making nitrogen available to corn plants is an example of what process?'
+
+- term: Nitrogen Fixation
+  full_def: 'Nitrogen fixation is the process where bacteria (or lightning) convert nitrogen gas into forms plants can use.'
+  quiz_question: 'Rhizobium bacteria in bean root nodules making nitrogen available to plants is an example of what?'

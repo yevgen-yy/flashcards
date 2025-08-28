@@ -1,0 +1,57 @@
+title: Biology Unit 1 Basics
+cards:
+- term: Ecology
+  full_def: 'Ecology is the study of how living organisms interact with each other and their environment. Example: Studying how wolves, elk, and plants interact in Yellowstone National Park.'
+  quiz_question: 'What is the study of how living organisms interact with each other and their environment called?'
+
+- term: Combustion
+  full_def: 'Combustion is the burning of fossil fuels or organic material that releases carbon dioxide into the atmosphere. Example: Burning gasoline in a car engine.'
+  quiz_question: 'What process releases carbon dioxide into the atmosphere by burning fuels or organic matter?'
+
+- term: Condensation
+  full_def: 'Condensation is the process of water vapor cooling and changing into liquid droplets in the atmosphere. Example: Water droplets forming on the outside of a cold glass.'
+  quiz_question: 'What process describes water vapor cooling and turning into liquid droplets?'
+
+- term: Evaporation
+  full_def: 'Evaporation is the process of liquid water gaining energy from the sun and changing into water vapor. Example: Puddles disappearing after a hot sunny day.'
+  quiz_question: 'What process describes liquid water gaining energy and becoming water vapor?'
+
+- term: Transpiration
+  full_def: 'Transpiration is the release of water vapor from plant leaves into the atmosphere. Example: Water vapor released when a tree breathes through its leaves.'
+  quiz_question: 'What process describes water vapor leaving plant leaves into the atmosphere?'
+
+- term: Decomposition
+  full_def: 'Decomposition is the breakdown of dead organisms by decomposers, releasing nutrients back into the soil and atmosphere. Example: Fungi breaking down a fallen log.'
+  quiz_question: 'What process breaks down dead organisms and releases nutrients back into the environment?'
+
+- term: Denitrification
+  full_def: 'Denitrification is the process where bacteria convert nitrates in the soil back into nitrogen gas, returning it to the atmosphere. Example: Soil bacteria in wetlands releasing nitrogen gas into the air.'
+  quiz_question: 'What process converts soil nitrates back into nitrogen gas?'
+
+- term: Biome
+  full_def: 'A biome is a large ecological region defined by climate, plants, and animals. Example: The Sahara Desert biome with cactus and camels.'
+  quiz_question: 'What do you call a large ecological region defined by climate, plants, and animals?'
+
+- term: Community
+  full_def: 'A community is all interacting populations of different species living in the same area. Example: All the fish, corals, and algae in a coral reef.'
+  quiz_question: 'What do you call all interacting populations of different species living in the same area?'
+
+- term: Ecosystem
+  full_def: 'An ecosystem is a community of living organisms plus the abiotic environment. Example: A pond ecosystem with frogs, fish, water, sunlight, and nutrients.'
+  quiz_question: 'What do you call a community of organisms plus their nonliving environment?'
+
+- term: Organism
+  full_def: 'An organism is a single living thing that meets all characteristics of life. Example: One sea otter, a bacterium, or a sunflower.'
+  quiz_question: 'What do you call a single living thing that meets all the characteristics of life?'
+
+- term: Population
+  full_def: 'A population is a group of individuals of the same species living in the same area. Example: A herd of deer in a forest.'
+  quiz_question: 'What do you call a group of individuals of the same species living in the same area?'
+
+- term: Nitrification
+  full_def: 'Nitrification is the process where soil bacteria convert ammonia into nitrates and nitrites that plants can use. Example: Soil microbes making nitrogen available to corn plants.'
+  quiz_question: 'What process converts ammonia into nitrates and nitrites that plants can use?'
+
+- term: Nitrogen Fixation
+  full_def: 'Nitrogen fixation is the process where bacteria (or lightning) convert nitrogen gas into forms plants can use. Example: Rhizobium bacteria in bean root nodules fixing nitrogen.'
+  quiz_question: 'What process converts nitrogen gas into usable forms for plants?'
