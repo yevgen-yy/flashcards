@@ -80,8 +80,8 @@ def build_pdf(cards, out_path=PDF_NAME):
         ax = fig.add_subplot(111)
         ax.axis("off")
         ax.text(0.5, 0.70, "Geometry Basics", fontsize=22, ha="center")
-        ax.text(0.5, 0.62, "Study Guide — 3 cards per page", fontsize=13, ha="center")
-        pdf.savefig(fig, bbox_inches="tight")
+        ax.text(0.5, 0.62, "Study Guide by Yevgen Yampolskiy", fontsize=13, ha="center")
+        pdf.savefig(fig)
         plt.close(fig)
 
         # Pages of cards

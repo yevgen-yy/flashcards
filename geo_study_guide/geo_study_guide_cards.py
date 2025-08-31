@@ -16,17 +16,28 @@ DEFINITIONS: List[Card] = [
     Card(
         term="Axiom (postulate)",
         description="A statement accepted as true without proof; used as a starting point for logical reasoning in geometry.",
-        notes="Example: 'Through any two points, there is exactly one line.'"
+        notes="Example: 'Through any two (distinct) points, there is exactly one line.'"
     ),
     Card(
         term="Theorem",
-        description="A statement that has been proven true using axioms, definitions, and previously established theorems."
+        description="A statement that has been proven true using axioms, definitions, and previously established theorems.",
+        notes=(
+            "Example: The sum of the interior angles of any triangle is 180°.\n"
+            "This can be proven using parallel lines and alternate interior angles."
+        )
     ),
     Card(
         term="Conjecture",
-        description="An unproven statement believed to be true based on observations or patterns; requires proof or a counterexample."
+        description="An unproven statement believed to be true based on observations or patterns; requires proof or a counterexample.",
+        notes=(
+            "Consider the expression f(n) = n² + n + 41.\n"
+            "For n = 0, 1, 2, ..., 10, the values of f(n) are:\n"
+            "41, 43, 47, 53, 61, 71, 83, 97, 113, 131, 151 — all prime numbers.\n"
+            "This leads to the conjecture:\nf(n) is a prime number for every natural number n.\n"
+            "This is a conjecture until someone proves or disproves it.\n"
+            "Try to prove or disprove this conjecture — without using AI or Google search!"
+        )
     ),
-
     # ---------------- Foundations ----------------
     Card(
         term="Point",
