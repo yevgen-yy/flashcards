@@ -198,7 +198,7 @@ DEFINITIONS: List[Card] = [
     ),
     Card(
         term="Concurrent lines",
-        description="Three or more lines that intersect at a single point.",
+        description="Three or more lines that intersect at a single point, known as a point of concurrency.",
         drawer="concurrent_lines"
     ),
 
